@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://0xsupalex.github.io/supalexessay/sitemap.xml
